@@ -1,3 +1,3 @@
-steamlit: none
-joblib: none 
-sklearn: none
+steamlit
+joblib
+sklearn
