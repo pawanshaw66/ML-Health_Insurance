@@ -1,7 +1,7 @@
 mkdir -p ~/.streamlit/
 echo "\
 [general]\n\
-email = \"shaw02494@gmail.com\"\n\
+email = \"heroku logs --tail\"\n\
 ">~/.streamlit/credential.toml
 echo "\
 [server]\n\
